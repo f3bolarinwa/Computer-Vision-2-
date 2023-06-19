@@ -1,2 +1,7 @@
-# Computer-Vision-2-
-Deep Learning, Transfer Learning (VGG16, ResNet, EfficientNet), Convolutional Neural Networks, Tensorflow, Keras, Facial Emotion Recognition
+# This repository contains the following:
+
+project description
+
+summary slides
+
+Solution notebook (in html and ipynb formats)
